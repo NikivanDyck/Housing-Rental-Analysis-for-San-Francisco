@@ -1,6 +1,6 @@
 ## Housing Rental Analysis for San Francisco
 
-![a photo of homes in sf](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fsan-francisco-row-houses.html&psig=AOvVaw3emMO5zOkJOg3-mLF72Cw0&ust=1633294180917000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiSuI_NrPMCFQAAAAAdAAAAABAN)
+![a photo of homes in sf](https://www.hiusa.org/wp-content/uploads/2020/04/Alamo-Square-Park-SF-Holger-Link-unsplash-1000x550-compressor-778x446.jpg)
 
 ### Overview
 
@@ -20,7 +20,7 @@ Jupyter, Pandas, Pathlib, Hvplot
 ---
 
 ### Usage
-When using the interactive maps widets on the right hand side of the visualization allow you to zoom, pan, and export the visualization. Widgets will also allow you to analyse groups and data, and in this exmaple specifically neighborhoods.    
+When using the interactive maps widets on the right hand side of the visualization allow you to zoom, pan, and export the visualization. Widgets will also allow you to analyse groups and data, and in this use case specifically view neighborhood results.    
 
 ---
 
